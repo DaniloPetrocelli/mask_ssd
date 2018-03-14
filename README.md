@@ -2,7 +2,7 @@
 Base Repo for my Mask-SSD Project forked from [creotiv](https://github.com/creotiv/keras-tools)
 
 ## ToDo
-- [ ] Understand modifications from ssd300 to creotiv's ssd_v2
+- [ ] Understand necessary modifications for ssd300 to include RUN-SDD or R-SDD aswell as PSPNet
 - [ ] Cleanup Model
 - [ ] Extend Model to make it trainable
 - [ ] Train on Model on CoCo
