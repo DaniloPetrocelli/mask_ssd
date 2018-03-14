@@ -1,5 +1,5 @@
-# keras-tools
-Base Repo for my Mask-SSD Project forked from [creotiv](https://github.com/creotiv/keras-tools)
+# mask_ssd
+Base Repo for my Mask-SSD Project forked from [creotiv's keras_tools](https://github.com/creotiv/keras-tools)
 
 ## ToDo
 - [ ] Understand necessary modifications for ssd300 to include RUN-SDD or R-SDD aswell as PSPNet
